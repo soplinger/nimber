@@ -1,0 +1,8 @@
+# Stone Drop: take 1, 2 or 4 stones from one pile per turn.
+# The player who takes the last stone wins.
+name Stone Drop
+moves 1 2 4
+heap 7
+heap 10
+heap 11
+expect win

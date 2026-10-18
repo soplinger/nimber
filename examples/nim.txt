@@ -1,0 +1,7 @@
+# Classic Nim: any number from one heap.
+name Classic Nim
+moves all
+heap 3
+heap 4
+heap 5
+expect win

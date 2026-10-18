@@ -1,0 +1,6 @@
+# Subtraction game with a periodic Grundy sequence (period 5).
+name Two-Three
+moves 2 3
+heap 5
+heap 6
+expect lose
